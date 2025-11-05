@@ -38,8 +38,9 @@ All Dependabot PRs (#37-#44) were created from the same base commit (e813113) an
 ### Option 3: Consolidated Update
 1. Close all Dependabot PRs
 2. Create a single PR that updates all dependencies at once
-3. Run `npm update` to resolve all dependencies together
-4. This ensures all dependency updates are compatible
+3. Manually update package.json with target versions from each PR
+4. Run `npm install` to regenerate package-lock.json with all updates
+5. This ensures all dependency updates are compatible
 
 ## Implementation Steps
 
