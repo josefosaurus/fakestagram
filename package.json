@@ -15,7 +15,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
     "@fortawesome/react-native-fontawesome": "^0.2.1",
     "@react-native-community/masked-view": "0.1.5",
-    "axios": "^0.21.1",
+    "axios": "^0.30.2",
     "expo": "^47.0.0",
     "expo-camera": "~13.1.0",
     "expo-image-picker": "~14.0.2",
